@@ -159,7 +159,7 @@ This article provides details on the Common schema as well as each of the produc
 |1|ObjectModel|The event source is ObjectModel.|
 
 
-### Enum: SharePointAuditOperation - Type: Edm.Int32
+### Enum: SharePointAuditOperation - Type: Edm.String
 
 |**Member name**|**Description**|
 |:-----|:-----|
